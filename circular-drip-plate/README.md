@@ -32,7 +32,7 @@ You can adjust all parameters directly in Onshape and export your own STL or STE
 ## Print Settings
 
 - **Material:** PETG or ASA recommended — both handle outdoor and wet environments well. ASA preferred for prolonged UV exposure.
-- No supports required
+- Best if printed with alt support material
 - Print flat side down
 
 ## Files
