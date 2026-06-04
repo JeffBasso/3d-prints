@@ -2,6 +2,13 @@
 
 A parametric circular drip plate designed for plant pots. Features a hexagonal standoff pattern to elevate the pot above collected water, a lofted rim, and an optional drain trough. Fully configurable via Onshape parameters.
 
+## Onshape Source
+
+View and configure the live model in Onshape:
+[Open in Onshape](https://cad.onshape.com/documents/6a1dcd78e611472cd475c9c3/w/c0f7be328ed4342a622aa9f7/e/da22147f9f39064156602561?configuration=Diameter%3D0.38100000000000006%2Bmeter%3BRim_Height%3D0.012700000000000001%2Bmeter%3BRim_Offset%3D0.006350000000000001%2Bmeter%3BStand_Offs%3Dtrue%3BTrough%3Dtrue%3BTrough_Length%3D0.050800000000000005%2Bmeter&renderMode=0&uiState=6a21ae55672360de2aa50cdf)
+
+You can adjust all parameters directly in Onshape and export your own STL or STEP at any size.
+
 ## Features
 
 - Parametric diameter — scale to any pot size
